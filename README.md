@@ -1,2 +1,41 @@
-# leetcode-sql-50
-Solutions to LeetCode SQL 50 problems
+# LeetCode SQL 50 Solutions
+
+This repository contains my solutions to the LeetCode **SQL 50 Study Plan**.
+
+The goal of this repository is to improve SQL problem-solving skills through consistent practice and maintain a structured record of solved problems.
+
+Topics covered include:
+
+- Joins
+- Aggregations
+- GROUP BY
+- HAVING
+- Subqueries
+- Window Functions
+- CASE Statements
+
+---
+
+## Problems Solved
+
+| Problem ID | Problem Name | Difficulty |
+|------------|--------------|------------|
+| 570 | Managers with at Least 5 Direct Reports | Medium |
+
+---
+
+## Repository Structure
+
+Each LeetCode problem solution is stored as a separate `.sql` file.
+
+Example:
+
+570_managers_with_at_least_5_direct_reports.sql
+
+As more problems are solved, new SQL files will be added to this repository.
+
+---
+
+## Goal
+
+Solve all problems from the **LeetCode SQL 50 Study Plan** and document the solutions on GitHub to track learning progress.
