@@ -20,6 +20,7 @@ Topics covered include:
 
 | Problem ID | Problem Name | Difficulty |
 |------------|--------------|------------|
+| 550 | Confirmation Rate | Medium |
 | 570 | Managers with at Least 5 Direct Reports | Medium |
 
 ---
@@ -28,9 +29,10 @@ Topics covered include:
 
 Each LeetCode problem solution is stored as a separate `.sql` file.
 
-Example:
+Examples:
 
-570_managers_with_at_least_5_direct_reports.sql
+550_confirmation_rate.sql  
+570_managers_with_at_least_5_direct_reports.sql  
 
 As more problems are solved, new SQL files will be added to this repository.
 
