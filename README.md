@@ -1,6 +1,6 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-SQL_50-orange)
 ![Language](https://img.shields.io/badge/Language-SQL-blue)
-![Progress](https://img.shields.io/badge/Progress-5%2F50-green)
+![Progress](https://img.shields.io/badge/Progress-6%2F50-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 # LeetCode SQL 50 Solutions
@@ -32,6 +32,7 @@ The goal of this repository is to improve SQL problem-solving skills through con
 | 1193 | Monthly Transactions I | Medium |
 | 1174 | Immediate Food Delivery II | Medium |
 | 550 | Game Play Analysis IV | Medium |
+| 1070 | Product Sales Analysis III | Medium |
 
 ---
 
@@ -46,6 +47,7 @@ Examples:
 1193_monthly_transactions.sql  
 1174_immediate_food_delivery_ii.sql  
 550_game_play_analysis_iv.sql  
+1070_product_sales_analysis_iii.sql  
 
 As more problems are solved, new SQL files will be added to this repository.
 
