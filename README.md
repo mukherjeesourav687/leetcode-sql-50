@@ -1,6 +1,6 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-SQL_50-orange)
 ![Language](https://img.shields.io/badge/Language-SQL-blue)
-![Progress](https://img.shields.io/badge/Progress-7%2F50-green)
+![Progress](https://img.shields.io/badge/Progress-8%2F50-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 # LeetCode SQL 50 Solutions
@@ -34,6 +34,7 @@ The goal of this repository is to improve SQL problem-solving skills through con
 | 550 | Game Play Analysis IV | Medium |
 | 1070 | Product Sales Analysis III | Medium |
 | 1045 | Customers Who Bought All Products | Medium |
+| 180 | Consecutive Numbers | Medium |
 
 ---
 
@@ -50,6 +51,7 @@ Examples:
 550_game_play_analysis_iv.sql  
 1070_product_sales_analysis_iii.sql  
 1045_customers_who_bought_all_products.sql  
+180_consecutive_numbers.sql  
 
 As more problems are solved, new SQL files will be added to this repository.
 
