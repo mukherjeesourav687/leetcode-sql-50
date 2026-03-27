@@ -1,6 +1,6 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-SQL_50-orange)
 ![Language](https://img.shields.io/badge/Language-SQL-blue)
-![Progress](https://img.shields.io/badge/Progress-11%2F50-green)
+![Progress](https://img.shields.io/badge/Progress-12%2F50-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 # LeetCode SQL 50 Solutions
@@ -38,6 +38,7 @@ The goal of this repository is to improve SQL problem-solving skills through con
 | 1164 | Product Price at a Given Date | Medium |
 | 1204 | Last Person to Fit in the Bus | Medium |
 | 1907 | Count Salary Categories | Medium |
+| 626 | Exchange Seats | Medium |
 
 ---
 
@@ -58,6 +59,7 @@ Examples:
 1164_product_price_at_given_date.sql  
 1204_last_person_to_fit_in_the_bus.sql  
 1907_count_salary_categories.sql  
+626_exchange_seats.sql  
 
 As more problems are solved, new SQL files will be added to this repository.
 
