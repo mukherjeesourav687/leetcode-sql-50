@@ -1,6 +1,6 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-SQL_50-orange)
 ![Language](https://img.shields.io/badge/Language-SQL-blue)
-![Progress](https://img.shields.io/badge/Progress-14%2F50-green)
+![Progress](https://img.shields.io/badge/Progress-15%2F50-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 # LeetCode SQL 50 Solutions
@@ -23,23 +23,24 @@ My solutions to the LeetCode **SQL 50 Study Plan** — solved consistently, one 
 
 ---
 
-## Problems Solved (14/50)
+## Problems Solved (15/50)
 
-| #  | Problem ID | Problem Name                            | Difficulty | Solution                                                  |
-| -- | ---------- | --------------------------------------- | ---------- | --------------------------------------------------------- |
-| 1  | 550        | Game Play Analysis IV                   | Medium     | [View](./550_game_play_analysis_iv.sql)                   |
-| 2  | 570        | Managers with at Least 5 Direct Reports | Medium     | [View](./570_managers_with_at_least_5_direct_reports.sql) |
-| 3  | 626        | Exchange Seats                          | Medium     | [View](./626_exchange_seats.sql)                          |
-| 4  | 180        | Consecutive Numbers                     | Medium     | [View](./180_consecutive_numbers.sql)                     |
-| 5  | 1045       | Customers Who Bought All Products       | Medium     | [View](./1045_customers_who_bought_all_products.sql)      |
-| 6  | 1070       | Product Sales Analysis III              | Medium     | [View](./1070_product_sales_analysis_iii.sql)             |
-| 7  | 1164       | Product Price at a Given Date           | Medium     | [View](./1164_product_price_at_given_date.sql)            |
-| 8  | 1174       | Immediate Food Delivery II              | Medium     | [View](./1174_immediate_food_delivery_ii.sql)             |
-| 9  | 1193       | Monthly Transactions I                  | Medium     | [View](./1193_monthly_transactions.sql)                   |
-| 10 | 1204       | Last Person to Fit in the Bus           | Medium     | [View](./1204_last_person_to_fit_in_the_bus.sql)          |
-| 11 | 1321       | Restaurant Growth                       | Medium     | [View](./1321_restaurant_growth.sql)                      |
-| 12 | 1341       | Movie Rating                            | Medium     | [View](./1341_movie_rating.sql)                           |
-| 13 | 1907       | Count Salary Categories                 | Medium     | [View](./1907_count_salary_categories.sql)                |
+| #  | Problem ID | Problem Name                                 | Difficulty | Solution                                                  |
+| -- | ---------- | -------------------------------------------- | ---------- | --------------------------------------------------------- |
+| 1  | 550        | Game Play Analysis IV                        | Medium     | [View](./550_game_play_analysis_iv.sql)                   |
+| 2  | 570        | Managers with at Least 5 Direct Reports      | Medium     | [View](./570_managers_with_at_least_5_direct_reports.sql) |
+| 3  | 626        | Exchange Seats                               | Medium     | [View](./626_exchange_seats.sql)                          |
+| 4  | 180        | Consecutive Numbers                          | Medium     | [View](./180_consecutive_numbers.sql)                     |
+| 5  | 1045       | Customers Who Bought All Products            | Medium     | [View](./1045_customers_who_bought_all_products.sql)      |
+| 6  | 1070       | Product Sales Analysis III                   | Medium     | [View](./1070_product_sales_analysis_iii.sql)             |
+| 7  | 1164       | Product Price at a Given Date                | Medium     | [View](./1164_product_price_at_given_date.sql)            |
+| 8  | 1174       | Immediate Food Delivery II                   | Medium     | [View](./1174_immediate_food_delivery_ii.sql)             |
+| 9  | 1193       | Monthly Transactions I                       | Medium     | [View](./1193_monthly_transactions.sql)                   |
+| 10 | 1204       | Last Person to Fit in the Bus                | Medium     | [View](./1204_last_person_to_fit_in_the_bus.sql)          |
+| 11 | 1321       | Restaurant Growth                            | Medium     | [View](./1321_restaurant_growth.sql)                      |
+| 12 | 1341       | Movie Rating                                 | Medium     | [View](./1341_movie_rating.sql)                           |
+| 13 | 1907       | Count Salary Categories                      | Medium     | [View](./1907_count_salary_categories.sql)                |
+| 14 | 602        | Friend Requests II: Who Has the Most Friends | Medium     | [View](./602_friend_requests_most_friends.sql)            |
 
 ---
 
@@ -60,6 +61,7 @@ leetcode-sql-50/
 ├── 1321_restaurant_growth.sql
 ├── 1341_movie_rating.sql
 ├── 1907_count_salary_categories.sql
+├── 602_friend_requests_most_friends.sql
 ```
 
 ---
