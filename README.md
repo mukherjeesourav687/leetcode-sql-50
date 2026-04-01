@@ -27,7 +27,7 @@ My solutions to the LeetCode **SQL 50 Study Plan** — solved consistently, one 
 
 | #  | Problem ID | Problem Name                                 | Difficulty | Solution                                                  |
 | -- | ---------- | -------------------------------------------- | ---------- | --------------------------------------------------------- |
-| 1  | 550        | Confirmation Rate                            | Medium     | [View](./550_confirmation_rate.sql)                       |
+| 1  | 1934       | Confirmation Rate                            | Medium     | [View](./1934_confirmation_rate.sql)                       |
 | 2  | 550        | Game Play Analysis IV                        | Medium     | [View](./550_game_play_analysis_iv.sql)                   |
 | 3  | 570        | Managers with at Least 5 Direct Reports      | Medium     | [View](./570_managers_with_at_least_5_direct_reports.sql) |
 | 4  | 626        | Exchange Seats                               | Medium     | [View](./626_exchange_seats.sql)                          |
@@ -51,7 +51,7 @@ My solutions to the LeetCode **SQL 50 Study Plan** — solved consistently, one 
 
 ```
 leetcode-sql-50/
-├── 550_confirmation_rate.sql
+├── 1934_confirmation_rate.sql
 ├── 550_game_play_analysis_iv.sql
 ├── 570_managers_with_at_least_5_direct_reports.sql
 ├── 626_exchange_seats.sql
