@@ -1,4 +1,4 @@
--- Problem: 550. Confirmation Rate
+-- Problem: 1934. Confirmation Rate
 -- Source: LeetCode SQL 50
 -- Difficulty: Medium
 
